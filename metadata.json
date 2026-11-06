@@ -1,0 +1,6 @@
+{
+  "name": "کافه لمیز | سفارش آنلاین و مدیریت",
+  "description": "سامانه جامع سفارش آنلاین، منوی محصولات، باشگاه مشتریان لمیز کلاب، ره‌گیری پیامکی، و پنل مدیریت فروش و انبارداری کافه لمیز با تم قهوه و سفید",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
